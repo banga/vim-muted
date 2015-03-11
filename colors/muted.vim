@@ -55,7 +55,7 @@ hi PreProc              guifg=#99AACC
 hi Special              guifg=#994400
 hi Statement            guifg=#a09080  gui=bold
 hi String               guifg=#908090
-hi Structure            guifg=#995555
+hi Structure            guifg=#608060  gui=bold
 hi Symbol               guifg=#FAB1AB
 hi Todo                 guifg=#999999  guibg=bg  gui=underline
 hi Type                 guifg=#99AACC
