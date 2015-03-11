@@ -1,4 +1,5 @@
 # vim-muted
 A simple, muted color scheme for gui vim
 
-![Sample Screenshot](sample.png)
+![Sample Python Screenshot](sample-python.png)
+![Sample C++ Screenshot](sample-cpp.png)
