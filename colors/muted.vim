@@ -52,7 +52,7 @@ hi Keyword              guifg=#6688AA
 hi Method               guifg=#F7F7F7
 hi Number               guifg=#995599
 hi PreProc              guifg=#99AACC
-hi Special              guifg=#994400
+hi Special              guifg=#559999
 hi Statement            guifg=#a09080  gui=bold
 hi String               guifg=#908090
 hi Structure            guifg=#608060  gui=bold
